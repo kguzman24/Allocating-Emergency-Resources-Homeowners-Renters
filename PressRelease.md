@@ -11,3 +11,6 @@ FEMA's housing assistance program was built around property ownership. Renters, 
 There must be a data-driven allocation tool that can identify high-vulnerability ZIP codes before aid is distributed. This way, emergency managers can prioritize outreach and help simplify documentation requirements. This would ensure that funding will be directed where it's needed most. We must prioritize those who need help; close the gap.
 
 ## Chart
+![Average Housing Assistance Award Homeowners vs. Renters](/output/average_award.png)
+
+**What this graph shows:** Average housing assistance award per applicant following Hurricane Helene (Disaster \#4827), comparing FEMA aid received by homeowners versus renters. Homeowners received on average 2.5x more assistance than renters ($4,230 vs. $1,693), highlighting a systematic disparity in emergency resource allocation.
