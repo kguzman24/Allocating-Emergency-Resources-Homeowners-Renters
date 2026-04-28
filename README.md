@@ -114,9 +114,9 @@ Total Records|1,409|1,457|
 |Name|Data Type|Description| Example| Uncertainty|
 |---|---|---|---|---|
 |`state`|string|Two-letter postal abbreviation of the state where assistance was applied for| `NC`| 0 - No uncertainty as state is a fixed label assigned at registration and does not change.|
-|`validRegistrations`|integer|Number of valid FEMA assistance registrations submitted in that state| `2`| Low uncertainty at the time the data was pulled. However, FEMA may update or invalidate registrations, meaning this could change if the dataset is queried at a later time.|
-|`approvedForFEMAssistance`| integer| Number of registrations approved for FEMA housing assistance|`2`| Moderate uncertainty since approval statuses can be revised as FEMA processes appeals or conducts after the initial approval.|
-|`totalApprovedIhpAmount`|float|Total dollar amount of approved Individual and Household Program (IHP) assistance| `8220.98`| Moderate uncertainty as disbursed amounts can be adjusted if approvals are appealed or supplemental assistance is granted.|
+|`validRegistrations`|integer|Number of valid FEMA assistance registrations submitted in that state| `2`| .20 - Low uncertainty at the time the data was pulled. However, FEMA may update or invalidate registrations, meaning this could change if the dataset is queried at a later time.|
+|`approvedForFEMAssistance`| integer| Number of registrations approved for FEMA housing assistance|`2`| 0.5 - Moderate uncertainty since approval statuses can be revised as FEMA processes appeals or conducts after the initial approval.|
+|`totalApprovedIhpAmount`|float|Total dollar amount of approved Individual and Household Program (IHP) assistance| `8220.98`| .20 - Moderate uncertainty as disbursed amounts can be adjusted if approvals are appealed or supplemental assistance is granted.|
 
 
 
