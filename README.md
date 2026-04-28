@@ -8,4 +8,8 @@
 
 **DOI:**
 
-[**Press Release**]()
+[**Press Release**](https://github.com/kguzman24/Allocating-Emergency-Resources-Homeowners-Renters/blob/main/PressRelease)
+
+[**Pipeline**](https://github.com/kguzman24/Allocating-Emergency-Resources-Homeowners-Renters/blob/main/Pipeline.ipynb)
+
+[**MIT LICENSE**](https://github.com/kguzman24/Allocating-Emergency-Resources-Homeowners-Renters/blob/main/LICENSE)
