@@ -107,6 +107,7 @@ Total Records|1,409|1,457|
 |Missing Values|0|0|
 |Disaster Event| 4827|4827|
 |States| NC, SC|NC,SC|
+|Zipcodes|269 across both|269 across both|
 
 
 
@@ -116,7 +117,7 @@ Total Records|1,409|1,457|
 |`state`|string|Two-letter postal abbreviation of the state where assistance was applied for| `NC`| 0 - No uncertainty as state is a fixed label assigned at registration and does not change.|
 |`validRegistrations`|integer|Number of valid FEMA assistance registrations submitted in that state| `2`| .20 - Low uncertainty at the time the data was pulled. However, FEMA may update or invalidate registrations, meaning this could change if the dataset is queried at a later time.|
 |`approvedForFEMAssistance`| integer| Number of registrations approved for FEMA housing assistance|`2`| 0.5 - Moderate uncertainty since approval statuses can be revised as FEMA processes appeals or conducts after the initial approval.|
-|`totalApprovedIhpAmount`|float|Total dollar amount of approved Individual and Household Program (IHP) assistance| `8220.98`| .20 - Moderate uncertainty as disbursed amounts can be adjusted if approvals are appealed or supplemental assistance is granted.|
+|`totalApprovedIhpAmount`|float|Total dollar amount of approved Individual and Household Program (IHP) assistance| `8220.98`| .50 - Moderate uncertainty as disbursed amounts can be adjusted if approvals are appealed or supplemental assistance is granted.|
 
 
 
