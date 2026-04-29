@@ -1,6 +1,0 @@
-2026-04-28 20:30:48,018 - INFO - Pipeline initialized.
-2026-04-28 20:31:31,753 - INFO - Connected to MongoDB version: 8.0.21
-2026-04-28 20:31:42,010 - INFO - Cleared existing collections
-2026-04-28 20:31:48,010 - INFO - Inserted 1409 owner records
-2026-04-28 20:31:52,423 - INFO - Inserted 1457 renter records
-2026-04-28 20:31:52,564 - INFO - Verified - Owners: 1409, Renters: 1457
