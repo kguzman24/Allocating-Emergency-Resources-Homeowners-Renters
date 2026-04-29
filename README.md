@@ -6,7 +6,7 @@
 
 **NetID:** Sae3gg
 
-**DOI:**
+**DOI:** https://doi.org/10.5281/zenodo.19870690
 
 [**Press Release**](https://github.com/kguzman24/Allocating-Emergency-Resources-Homeowners-Renters/blob/main/PressRelease)
 
