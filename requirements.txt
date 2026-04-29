@@ -1,4 +1,10 @@
 requests
 pandas
 matplotlib
-os
+pymongo
+certifi
+dnspython
+scipy
+geopandas
+folium
+mapclassify
